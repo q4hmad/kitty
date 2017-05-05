@@ -1,0 +1,26 @@
+h1 {
+  color: black;
+  font-style: italic;
+  font-weight:lighter;
+  font-size: 16px
+}
+h3 {
+  color: green;
+  text-align: center;
+}
+.firstbox {
+  margin: 12 px;
+  border: 2px solid green;
+  float: none;
+  border: 2px black;
+  padding: 4px;
+  background-color: salmon;
+}
+img {
+  float: center;
+}
+.column1 {
+  width: 40%;
+  float: left;
+  background-color: grey;
+}
